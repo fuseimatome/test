@@ -1,0 +1,14 @@
+---
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook: default
+---
+
+# 本サイトについて{-}
+
+
+本サイトは、りつしさん（@ritsushi）が作成した図解資料をまとめたサイトです。
+
+キーボードの「>」キーでページめくりができます。
+
+
